@@ -21,7 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brokengg4&show_icons=true&locale=en&layout=compact" alt="brokengg4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brokengg4&show_icons=true&locale=en" alt="brokengg4" /></p>
 
-stat  
+  
 ![Metrics](https://github-readme-stats.vercel.app/api?username=brokengg4&show_icons=true&theme=tokyonight)
