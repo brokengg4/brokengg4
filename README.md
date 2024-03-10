@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brokengg4&show_icons=true&locale=en" alt="brokengg4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brokengg4&" alt="brokengg4" /></p>
+stat  
+![Metrics](https://github-readme-stats.vercel.app/api?username=brokengg4&show_icons=true&theme=tokyonight)
