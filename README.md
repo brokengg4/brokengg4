@@ -1,9 +1,11 @@
 <h1 align="center">ʜɪ 🤙, ɪ'ᴍ ɢᴍᴇxᴇ</h1>
 <h3 align="center">Lᴇᴀʀɴɪɴɢ JAVA</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brokengg4&label=Profile%20views&color=0e75b6&style=flat" alt="brokengg4" /> </p>
 
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 
 
 - 🎈 I’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ  **JAVA**
