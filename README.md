@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/808574215690256414">
-      <img align="center" src="https://lanyard.cnrad.dev/api/808574215690256414?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="craciu25_YT"/>
+      <img align="center" src="https://lanyard.cnrad.dev/api/808574215690256414?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="varun.exe"/>
 
 
 
