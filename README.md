@@ -1,4 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=brokengg4&icon=3&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
+
 
 
 # 💫 Aʙᴏᴜᴛ Mᴇ:
@@ -28,8 +31,7 @@
 
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yes) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
