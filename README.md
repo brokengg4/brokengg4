@@ -28,12 +28,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=brokengg4&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
+
+
+
 <p align="center">
-  <a href="https://discord.com/users/808574215690256414">
-      <img align="center" src="https://lanyard.cnrad.dev/api/808574215690256414?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="varun.exe"/>
-
-
-
-
-  
 ![Metrics](https://github-readme-stats.vercel.app/api?username=brokengg4&show_icons=true&theme=tokyonight)
