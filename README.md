@@ -27,7 +27,7 @@
 
 
 ### <h2 align="center"> 🐸 Mᴇᴍᴇ </h2>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h2 align="center"> <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
