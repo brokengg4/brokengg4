@@ -18,7 +18,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=brokengg4&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
-## <h2 align="center">👁 🏆 GitHub Trophies </h2>
+## <h2 align="center"> 🏆 GitHub Trophies </h2>
 ![](https://github-profile-trophy.vercel.app/?username=brokengg4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
