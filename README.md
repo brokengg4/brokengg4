@@ -31,5 +31,4 @@
 
 
 
-<p align="center">
-  ![Metrics](https://github-readme-stats.vercel.app/api?username=brokengg4&show_icons=true&theme=tokyonight)
+
