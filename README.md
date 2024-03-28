@@ -5,13 +5,11 @@
 
 
 # 💫 Aʙᴏᴜᴛ Mᴇ:
-🎈 I’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ JAVA<br>💬 Asᴋ ᴍᴇ ᴀʙᴏᴜᴛ Pʀᴏᴊᴇᴄᴛ,ᴄᴏᴅᴇs<br>⚡ Fun fact Aᴍ Fᴜɴɴʏ I ɢᴜᴇss
+🎈 I’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ JAVA<br>💬 Asᴋ ᴍᴇ ᴀʙᴏᴜᴛ Pʀᴏᴊᴇᴄᴛ,ᴄᴏᴅᴇs<br>⚡ Fun fact Aᴍ Fᴜɴɴʏ I ɢᴜᴇss<br><b>Website :</b>https://www.gmbotx.tech/
 
 
 <h3 align="left">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<h4 align="right">Website</h4>
-<p align="right"> https://www.gmbotx.tech/ </p>
 
 
 <h2 align="center">👁 Sᴛᴀᴛɪsᴛɪᴄs</h2>
