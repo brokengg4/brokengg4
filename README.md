@@ -4,7 +4,7 @@
 
 
 # <h2 align="center">💫 Aʙᴏᴜᴛ Mᴇ:
-<h2 align="center"> 🎈 I’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ JAVA<br>💬 Asᴋ ᴍᴇ ᴀʙᴏᴜᴛ Pʀᴏᴊᴇᴄᴛ,ᴄᴏᴅᴇs<br>⚡ Fun fact Aᴍ Fᴜɴɴʏ I ɢᴜᴇss<br><b>Website :</b>https://www.gmbotx.tech/
+<h2 align="center"> 🎈 I’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ JAVA<br><br>⚡ Fun fact Aᴍ Fᴜɴɴʏ I ɢᴜᴇss<br><b>Website :</b>https://www.gmbotx.tech/
 
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs:</h3>
