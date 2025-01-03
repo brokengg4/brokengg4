@@ -3,8 +3,9 @@
 
 
 
-# <h2 align="center">💫 Aʙᴏᴜᴛ Mᴇ:
-<h2 align="center"> 🎈 I’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ JAVA<br><br>⚡ Fun fact Aᴍ Fᴜɴɴʏ I ɢᴜᴇss<br><b>Website :</b>https://www.gmbotx.tech/
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake">
+</div>
 
 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs:</h3>
